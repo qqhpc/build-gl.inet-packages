@@ -1,3 +1,4 @@
+name: Build Gl.iNet Packages
 on: 
   workflow_dispatch:
     inputs:
